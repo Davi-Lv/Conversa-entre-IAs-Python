@@ -4,6 +4,10 @@
 
 ---
 
+### Observasões
+- Você pode alterar a engine/modelo do projeto no arquivo na linha 8
+- Você pode escolher quantas interações as IAs devem ter, modificando o valor do while (linha 18).
+
 ### Requisitos
 - Python 3.7 ou superior
 - Conta de desenvolvedor da OpenAI
@@ -15,7 +19,7 @@
 - Clone o repositório para o seu computador
 - Instale a biblioteca "openai" com o comando pip install openai
 - Crie uma conta na OpenAI e obtenha uma Key da API
-- Insira sua chave de API no arquivo (linha 4)
+- Insira sua chave de API no arquivo (linha 5)
 - Este projeto foi testado no Google Colab, mas pode ser executado em outros ambientes.
 
 # Aviso
